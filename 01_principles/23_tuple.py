@@ -1,0 +1,5 @@
+tuple = (1,2,3)
+print(tuple.count(2))
+print(tuple.index(1, 0))
+print(tuple)
+print(tuple[2])
